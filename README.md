@@ -1,8 +1,8 @@
-# BrowserSearchLauncher
+# Quicksearch
 
 ## Overview
 
-`BrowserSearchLauncher` is a cross-platform tool designed to simplify and accelerate your web browsing experience. Whether you want to perform a quick search or open a URL, this script provides an efficient, streamlined way to manage these tasks. The repository currently includes a Windows PowerShell script (`script.ps1`), with plans to support macOS in the future.
+`Quicksearch` is a cross-platform tool designed to simplify and accelerate your web browsing experience. Whether you want to perform a quick search or open a URL, this script provides an efficient, streamlined way to manage these tasks. The repository currently includes a Windows PowerShell script (`script.ps1`), with plans to support macOS in the future.
 
 ## Features
 
@@ -18,11 +18,11 @@
 
 1. **Clone the Repository**: 
    ```sh
-   git clone https://github.com/yourusername/BrowserSearchLauncher.git
+   git clone https://github.com/yourusername/Quicksearch.git
    ```
 2. **Navigate to the Directory**:
    ```sh
-   cd BrowserSearchLauncher
+   cd Quicksearch
    ```
 3. **Run the Script**:
    - You can execute the script directly from PowerShell:
